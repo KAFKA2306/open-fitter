@@ -160,7 +160,7 @@ class OPENFITTER_OT_export_rbf_json(bpy.types.Operator):
     bl_idname = "openfitter.export_rbf_json"
     bl_label = "Export RBF JSON"
     
-    filepath: bpy.props.StringProperty(subtype="FILE_PATH")
+    filepath: bpy.props.StringProperty = bpy.props.StringProperty(subtype="FILE_PATH")
     
     def invoke(self, context, event):
         if not self.filepath:
@@ -256,11 +256,6 @@ class OPENFITTER_OT_export_rbf_json(bpy.types.Operator):
         # 3. Downsampling & Distribution
         # Use Voxel Grid Sampling to ensure uniform distribution and determinism
         
-        # Calculate bounding box to estimate density
-        min_b = np.min(centers, axis=0)
-        max_b = np.max(centers, axis=0)
-        diag = np.linalg.norm(max_b - min_b)
-        
         # Grid spacing: Use a fraction of Epsilon if available, or bounding box
         # If points are closer than epsilon/2, they are redundant and cause instability.
         # Let's use epsilon * 0.2 as a safe minimum spacing.
@@ -321,36 +316,36 @@ class OPENFITTER_OT_export_rbf_json(bpy.types.Operator):
 # ------------------------------------------------------------------------
 
 class OpenFitterRBFProperties(bpy.types.PropertyGroup):
-    basis_shape_key: bpy.props.StringProperty(
+    basis_shape_key: bpy.props.StringProperty = bpy.props.StringProperty(
         name="Basis Key",
         description="The base shape key (usually Basis)",
         default="Basis"
     )
-    target_shape_key: bpy.props.StringProperty(
+    target_shape_key: bpy.props.StringProperty = bpy.props.StringProperty(
         name="Target Key",
         description="The shape key representing the deformation",
         default=""
     )
-    epsilon: bpy.props.FloatProperty(
+    epsilon: bpy.props.FloatProperty = bpy.props.FloatProperty(
         name="Epsilon",
         description="RBF Kernel Epsilon (Width)",
         default=0.5,
         min=0.001
     )
-    smoothing: bpy.props.FloatProperty(
+    smoothing: bpy.props.FloatProperty = bpy.props.FloatProperty(
         name="Smoothing",
         description="Regularization parameter. Higher values make the deformation smoother but less accurate to the original points.",
         default=0.01,
         min=0.0,
         precision=4
     )
-    max_points: bpy.props.IntProperty(
+    max_points: bpy.props.IntProperty = bpy.props.IntProperty(
         name="Max Points",
         description="Maximum number of control points (downsampled randomly)",
         default=500,
         min=10
     )
-    enable_x_mirror: bpy.props.BoolProperty(
+    enable_x_mirror: bpy.props.BoolProperty = bpy.props.BoolProperty(
         name="X Mirror",
         description="Mirror points across X axis (useful for symmetric meshes)",
         default=False

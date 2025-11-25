@@ -12,7 +12,7 @@ import bpy
 import json
 import math
 import os
-from mathutils import Matrix, Vector
+from mathutils import Matrix, Quaternion
 
 def matrix_to_list(matrix):
     return [list(row) for row in matrix]
@@ -36,9 +36,6 @@ def save_armature_pose(armature_obj, filepath):
         
         # 1. Get Local Basis Values (Delta from Rest Pose)
         # These correspond to the values in the Transform panel in Pose Mode.
-        
-        # Location: Translation from Rest Head in Bone's Rest Frame
-        loc = bone.location
         
         # Rotation: Rotation relative to Rest Orientation
         if bone.rotation_mode == 'QUATERNION':
@@ -112,7 +109,7 @@ class ExportBonePose(bpy.types.Operator):
     bl_idname = "export_pose.json"
     bl_label = "Export Bone Pose JSON"
     
-    filepath: bpy.props.StringProperty(subtype="FILE_PATH")
+    filepath: bpy.props.StringProperty = bpy.props.StringProperty(subtype="FILE_PATH")
     
     def execute(self, context):
         if not self.filepath:

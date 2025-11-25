@@ -14,6 +14,11 @@ UnityのOpenFitterシステムで使用する変形データをエクスポー�
 
 アーマチュア間のボーン変形差分をエクスポート。
 
+## 開発メモ
+
+- ローカルLint: `scripts/lint.sh` を実行（事前に `python3 -m pip install -r requirements-dev.txt`）。
+- GitHub Actions で同じpyflakesチェックを自動実行。
+
 ## 数学
 
 ### RBF（Radial Basis Function - 放射基底関数）補間
