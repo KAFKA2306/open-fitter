@@ -1,0 +1,295 @@
+,,,,,,,
+,リスト内の単語について補足,,,,,,リスト内の簡易検索機能（シートを入力した単語で検索）
+,"・プロファイル・・・もちふぃった～でアバターの対応衣装を変換する際に必須となるデータ
+・アバター購入履歴よりDL・・・Booth内のアバターを購入した履歴からプロファイルをDLして入手する場合の記載（アバター所有者しかプロファイルはDL出来ません）
+・Boothにて配布中・・・BoothのURL先でプロファイルをDLすることが出来る場合の記載（アバター購入していなくてもプロファイルをDL出来ます）
+・両方向対応・・・AアバターからBアバターへの衣装の変換を相互に可能な状態（例：他のアバターの対応衣装→ベリル／ベリルの対応衣装→他のアバター どちらも可能）
+・順方向のみ対応・・・AアバターからBアバターへの衣装の変換のみが可能な状態（例：他のアバターの対応衣装→ベリル のみ可能）",,,,,,PC：Ctrl + Fで簡易検索の機能の表示がされます（右上）
+,,,,,,,
+,もちふぃった～ プロファイル 女性アバター公式 対応済みリスト（11/25 時点 対応アバター数 246）※誤りがあれば教えて下さい,,,,,,
+,,アバター名称,アバター販売 ショップ名,プロファイル配布方法,プロファイル配布 URL,変換対応状況（不明な場合※順方向のみ対応記載）,メモ
+,1,ベリル,Nine Gates,もちふぃった～に同梱,,両方向対応,ベリルちゃんにもちふぃった～が同梱されています
+,2,桔梗,ポンデロニウム研究所,もちふぃった～に同梱,,両方向対応,
+,3,しなの,,,,両方向対応,
+,4,マヌカ,STUDIO JINGO,もちふぃった～に同梱,,両方向対応,
+,5,Lasyusha ラシューシャ,Keenoo,Boothにて配布中,https://keenooshop.booth.pm/items/4825073,両方向対応,
+,6,Marycia マリシア,BeroarN,アバター購入履歴よりDL,,順方向のみ対応,
+,7,シャルメ,Eastern Wind,"共通素体EF Body用プロファイル
+アバター購入履歴よりDL",,※順方向のみ対応,
+,8,冬葵,,,,,
+,9,シャーレン,,,,,
+,10,千理,,,,,
+,11,ネフェリサ,,,,,
+,12,焔花,,,,,
+,13,弐番 -NIBAN-,AVAKIN',アバター購入履歴よりDL,,※順方向のみ対応,
+,14,プレッツェル,,,,※順方向のみ対応,プレッツェルの購入履歴からNIBANのFBXを別途DLしてUnityへインポートが必要
+,15,愛狼 -Melow-,,"共通素体用プロファイル
+Boothにて配布中",https://avakin.booth.pm/items/6218001,※順方向のみ対応,
+,16,うろぼ -urobo-,,,https://avakin.booth.pm/items/6406377,,
+,17,バニラ -Vanilla-,,,https://avakin.booth.pm/items/5839326,,
+,18,スピルバ -Spielber-,,,https://avakin.booth.pm/items/6119302,,
+,19,イトネ -itone-,,,https://avakin.booth.pm/items/6333504,,
+,20,びしょぬれのしずくさん,KUROMARU9,Boothにて配布中,https://kuromaru9.booth.pm/items/3828632,両方向対応,アバター販売ページにてプロファイルDL
+,21,バナナのばななちゃん,,,https://kuromaru9.booth.pm/items/2411814,両方向対応,アバター販売ページにてプロファイルDL
+,22,かんぺきメイドメロトロン,KUROMARU9,"共通素体MARUBODY用プロファイル
+Boothにて配布中",https://kuromaru9.booth.pm/items/7552195,両方向対応,"・共通素体MARUBODY
+１．Booth アバター販売と別のページにてプロファイル配布中
+２．アバター購入履歴よりプロファイルと別にMochiFitter用参照素体を別途DLが必要"
+,23,キルサイク,VERMILION .Studio,,,,
+,24,レティニア & レティニエッタ,AugmentedDoll,,,,
+,25,大神ララン,ストレイ・ラム,,,,
+,26,イェーナ,,,,,
+,27,ルキフェル,なっふな堂,,,,
+,28,リセ,Re:Gista,,,,
+,29,ネミア,ROKO SHOP,,,,
+,30,むんき -Munkki -,なんか作ろうよ,,,,
+,31,ペティニィ,もくもくねどこ,,,,
+,32,NO.3,FLASTORE,"共通素体Bodyset2用プロファイル
+Boothにて配布中",https://flastore.booth.pm/items/7611477,※順方向のみ対応,"・共通素体Bodyset2
+変換後に原点とスケールを合わせる作業が別途必要
+以下が衣装の着せ替え方法についてのtipsです
+https://docs.google.com/document/d/1sJfeiRs5E6JC_96LtPDEM3cvWmnNPh-i3LUqnwcNZQU/edit?tab=t.0"
+,33,フェイロン v3,,,,,
+,34,Shery v2,,,,,
+,35,鳴耶,,,,,
+,36,Nio v2,,,,,
+,37,Rono,,,,,
+,38,スヴァルトリリヤ,,,,,
+,39,セレニウム,,,,,
+,40,ミュオン,,,,,
+,41,Warabi,,,,,
+,42,Wolfram,,,,,
+,43,Nemo,,,,,
+,44,水鏡祈,再生産紙＆だらけぐま,,,,
+,45,スピカ,わこーのあとりえ,"全アバター共通データ
+BoothページにDLリンクあり",https://wakonoatorie.booth.pm/items/1808374,順方向のみ対応,
+,46,ミラ,,,https://wakonoatorie.booth.pm/items/2140459,,
+,47,ユウ,,,https://wakonoatorie.booth.pm/items/2417889,,
+,48,リル,,,https://wakonoatorie.booth.pm/items/3092723,,
+,49,ミル,,,https://wakonoatorie.booth.pm/items/3413206,,
+,50,ティナ,,,https://wakonoatorie.booth.pm/items/4074925,,
+,51,レイ,,,https://wakonoatorie.booth.pm/items/4360868,,
+,52,リリカ,,,https://wakonoatorie.booth.pm/items/4897562,,
+,53,にな,,,https://wakonoatorie.booth.pm/items/5268564,,
+,54,はるか,,,https://wakonoatorie.booth.pm/items/5859318,,
+,55,サラ,,,https://wakonoatorie.booth.pm/items/6311566,,
+,56,もも,,,https://wakonoatorie.booth.pm/items/7108322,,
+,57,アングラの子,KUYUYU / 電脳屋,"作者様Xにて
+DLリンクのポストあり",https://x.com/dennou404/status/1982339642990141893,両方向対応,A0XBody A1XBody 対応
+,58,アノネ,,,,両方向対応,A0XBody A1XBody A05Body 対応
+,59,クロダ,,,,両方向対応,A0XBody A1XBody A05Body 対応
+,60,ALTGARAGE,,,,両方向対応,A0XBody A1XBody A05Body 対応
+,61,龍のヨルちゃん,,,,両方向対応,A1XBody B01Body 対応
+,62,ヘルベチカ,,,,両方向対応,A0XBody A1XBody A06Body 対応
+,63,かなずちちゃん,,,,順方向のみ対応,
+,64,Moose,,,,順方向のみ対応,
+,65,ホライズ -Horiz-,寺井カントリー / Terai Country,アバター購入履歴よりDL,,順方向のみ対応,
+,66,ファルリア -Falria-,,,,順方向のみ対応,
+,67,ハーミット -Hermit-,,,,順方向のみ対応,
+,68,望身 -Nozomi-,,,,順方向のみ対応,
+,69,ねこめいつ -Nekomates-,,,,順方向のみ対応,
+,70,ヌーヴェル -Nouvelle-,,,,順方向のみ対応,
+,71,ニクス -Nix-,,,,順方向のみ対応,
+,72,なのでび -Nanodevi-,,,,順方向のみ対応,
+,73,EMISTIA -エミスティア-,SKYMY Workshop,アバター購入履歴よりDL,,※順方向のみ対応,
+,74,YRISPHERE -ユリスフィア-,,,,※順方向のみ対応,
+,75,CURISHIA - キュリシア -,,,,※順方向のみ対応,
+,76,LIMILIA -リミリア-,,,,※順方向のみ対応,
+,77,ERUQYUNA2 - エルキュナ2 -,,,,※順方向のみ対応,
+,78,MIKOMIA - ミコミア -,,,,※順方向のみ対応,
+,79,ラズロッテ -Lazlotte-,Fanatail,Boothにて配布リンクあり,https://teaf.booth.pm/items/2186253,※順方向のみ対応,
+,80,チオ -Thio-,,,https://teaf.booth.pm/items/3445873,※順方向のみ対応,
+,81,ロックローズ -Rockrose-,,,https://teaf.booth.pm/items/4054324,※順方向のみ対応,
+,82,翠嵐 -Suiran-,,,https://teaf.booth.pm/items/4926106,※順方向のみ対応,
+,83,マトカ -Matka-,,,https://teaf.booth.pm/items/6868371,※順方向のみ対応,
+,84,心-556,仮想VoidCat,Boothにて配布中,https://yueou.booth.pm/items/3160480,※順方向のみ対応,
+,85,サフィー-Sapphy-,,,https://yueou.booth.pm/items/3939858,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,86,ルフィナ-Rufina-,,,https://yueou.booth.pm/items/4670579,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,87,ペルラ -Perula-,,,https://yueou.booth.pm/items/5565569,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,88,ルリエ -Lurie-,,,https://yueou.booth.pm/items/7427949,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,89,溟々のリモジール,レメゲトン,アバター購入履歴よりDL,,※順方向のみ対応,
+,90,夜天のエリヌス,,,,※順方向のみ対応,
+,91,弔鐘のミゼリエ,,,,※順方向のみ対応,
+,92,月虹のエヴレース,,,,※順方向のみ対応,
+,93,Izul -イズール- Remake,bikiTadpole,アバター購入履歴よりDL,,※順方向のみ対応,
+,94,Elmina -エルミーナ-,,,,※順方向のみ対応,
+,95,Seraphina -セラフィナ-,,,,※順方向のみ対応,
+,96,Miroir -ミロワール- Remake,,,,※順方向のみ対応,
+,97,藍子さん AIKOSAN,NEKOKAREYA,"共通素体 Kuminbody用プロファイル
+Boothにて配布中",https://nekokaerya.booth.pm/items/7643644,順方向のみ対応,
+,98,アザミさん AZAMISAN,,,,,
+,99,ユーネ,イルファ商店街,,,,
+,100,ベニちゃん,イルファ商店街,Boothにて配布中,https://teicifer9999.booth.pm/items/7631172,両方向対応,
+,101,ガヴ,はてな商店はなぞの店,"共通素体用プロファイル
+Boothにて配布中",https://booth.pm/ja/items/7663206,順方向のみ対応,
+,102,ネム,,,,,
+,103,ラウラ,,,,,
+,104,プティシラ,,,,,
+,105,シィル-Ciel-,りすきーしょっぷ,Boothにて配布リンクあり,https://rikyuvrc.booth.pm/items/5600327,※順方向のみ対応,
+,106,るぅ-Ruu-,,,https://rikyuvrc.booth.pm/items/5767548,※順方向のみ対応,
+,107,リリシア-Lilithia-,,,https://rikyuvrc.booth.pm/items/7003322,※順方向のみ対応,
+,108,くじらのくぅ-Kuu-,,,https://rikyuvrc.booth.pm/items/7572400,※順方向のみ対応,
+,109,すずね -Suzune-,WILGINIABOX,アバター購入履歴よりDL,,※順方向のみ対応,
+,110,エルノア -Ernoah-,,,,※順方向のみ対応,
+,111,メフィー -Mephie-,,,,※順方向のみ対応,
+,112,凪羽 -Nagiha-,,,,※順方向のみ対応,
+,113,あずき,狐の迷い宿,Boothにて配布中,https://kitsune-tsuki.booth.pm/items/2472916,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,114,右近弐式,,,https://kitsune-tsuki.booth.pm/items/4839004,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,115,ちび右近,,,https://kitsune-tsuki.booth.pm/items/5558366,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,116,ファルムナ / Falmna,BRCL BOOTH,アバター購入履歴よりDL,,※順方向のみ対応,
+,117,キャティーア / Catiea,,,,※順方向のみ対応,
+,118,アルドナ / Aldona,,,,※順方向のみ対応,
+,119,ルナール - Renard -,ナナツキ.Studio,"共通素体 7sBody用プロファイル
+Boothにて配布中",https://studio7tsuki.booth.pm/items/5685692,両方向対応,"7sBodyから変換する際、胸周りのポリゴン数やボーンの関係上
+破綻回避が難しいので各自でPBをOFFにしたりメッシュ削除が必要との事"
+,120,シュカ - Choucas -,,,,,
+,121,アズ＆ラピ - Hase&Lapi -,,,,,
+,122,リーベマリーネ,まきまき堂,アバター購入履歴よりDL,,順方向のみ対応,
+,123,リーベアーテル,,,,順方向のみ対応,
+,124,リーベルプス,,,,順方向のみ対応,
+,125,アマロ,Senna Studio,アバター購入履歴よりDL,,※順方向のみ対応,
+,126,エイラ,,,,※順方向のみ対応,
+,127,ポワン,,,,※順方向のみ対応,
+,128,INABA,ゴールデン商会,Boothにて配布中,https://goldentakasan.booth.pm/items/4213786,順方向のみ対応,
+,129,椎名,,,,順方向のみ対応,
+,130,狐雨,,,,順方向のみ対応,
+,131,シェーナ,まつり場,アバター購入履歴よりDL,,順方向のみ対応,リメイク素体のみ対応
+,132,リーナ,,,,順方向のみ対応,リメイク素体のみ対応
+,133,フレーナ,,,,順方向のみ対応,リメイク素体のみ対応
+,134,メフィナ (MEPHINA),Beep-ON,アバター購入履歴よりDL,,順方向のみ対応,
+,135,ヴェルミア (VERMIA),,,,順方向のみ対応,
+,136,星凪 ゆらぎ,,,,順方向のみ対応,
+,137,Pancake,silvercherry,アバター購入履歴よりDL,,※順方向のみ対応,
+,138,Filio,,,,※順方向のみ対応,
+,139,Risotto,,,,※順方向のみ対応,
+,140,セヴィル Sevil,#ikshop,Boothにて作成中データのDLリンク有,https://ikshop.booth.pm/items/5147424,順方向のみ対応,アバター販売ページにてプロファイルDL
+,141,キリセ Kirise,,,https://ikshop.booth.pm/items/5789025,順方向のみ対応,アバター販売ページにてプロファイルDL
+,142,ツキセ Tsukise,,,http://ikshop.booth.pm/items/6834358,順方向のみ対応,アバター販売ページにてプロファイルDL
+,143,リディ - Lydie,藻類観察会,アバター購入履歴よりDL,,※順方向のみ対応,
+,144,連翹(Rengyo),,,,※順方向のみ対応,
+,145,珀葵(Tamaki),,,,※順方向のみ対応,
+,146,フレア -Flare-,Elychiffon,Boothにて配布中,https://elychiffon.booth.pm/items/4768506,※順方向のみ対応,
+,147,ラズリ -Lazuli-,,,https://elychiffon.booth.pm/items/5255692,※順方向のみ対応,
+,148,リナ-Lina-,けだまびより BOOTH支店,アバター購入履歴よりDL,,順方向のみ対応,
+,149,ノエル-Noel-,,,,順方向のみ対応,
+,150,Quanstella - クアンステーラ,もやししなしな,Boothにて配布中,https://moyashichan.booth.pm/items/5922294,順方向のみ対応,※暫定対応 アバター販売ページにてプロファイルDL
+,151,疾雲 - hayakumo -,,アバター購入履歴よりDL,,順方向のみ対応,
+,152,ぺちにあ,日良冬屋こんこ,Boothにて配布中,https://yaratoyakonko.booth.pm/items/6278885,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,153,あまのよどみ,,,https://yaratoyakonko.booth.pm/items/4362233,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,154,ドリス / Doris,三叉屋,アバター購入履歴よりDL,,※順方向のみ対応,Doris3_1_0_4.unitypackageにもちふぃった～用素体が入っているため更新必須
+,155,蝋華 / Rouka,,,,※順方向のみ対応,
+,156,ニヴ / N.I.V.H,Frank Factory＋,Boothにて配布中,https://frankfactoryplus.booth.pm/items/4342835,順方向のみ対応,
+,157,ボッカV2,,,https://frankfactoryplus.booth.pm/items/6194876,順方向のみ対応,
+,158,E-tA-イータ-,黒岩工房-KuroiwaDigitalFactory,Boothにて配布中,https://96kuroiwa.booth.pm/items/4666323,両方向対応,
+,159,鈴華,,,https://96kuroiwa.booth.pm/items/7527463,両方向対応,
+,160,ライカ（ステラ級素体）,くまきち商店ワークス,Boothにて配布中,https://kumakichishoten.booth.pm/items/7573056,※順方向のみ対応,
+,161,ペンタクス（ステラ級素体）,,,,※順方向のみ対応,
+,162,レグニア-Legnia-,ふかんじ屋,アバター購入履歴よりDL,,両方向対応,
+,163,サナティア-Sanatia-,,,,両方向対応,
+,164,フィラム,しそこんぶバーチャル支店,Boothにて配布中,https://sora777.booth.pm/items/7641371,順方向のみ対応,
+,165,めりあ,,,,両方向対応,
+,166,Lilith -リリス-,Vision-GirLs,Boothにて配布中,https://vision-girls.booth.pm/items/5100113,※順方向のみ対応,
+,167,GAME NEKO,,,https://vision-girls.booth.pm/items/7186439,※順方向のみ対応,
+,168,聖剣の化身ユーアルマ,Scramble Woods,アバター購入履歴よりDL,,※順方向のみ対応,
+,169,魔剣士レーヴァリッサ,,,,※順方向のみ対応,
+,170,リベラｰRibera,24時間休業,アバター購入履歴よりDL,,順方向のみ対応,
+,171,Lumia ルミア,,,,両方向対応,
+,172,Doll/ドル,おばけばこ,アバター購入履歴よりDL,,順方向のみ対応,
+,173,Parla/パルラ,,,,順方向のみ対応,
+,174,Fonmy -フォンミィ-,かえりみち,アバター購入履歴よりDL,,順方向のみ対応,
+,175,みるくらて&しゅがーらて,,,,順方向のみ対応,
+,176,だるビス,にゃわて荘BOOTH,アバター購入履歴よりDL,,※順方向のみ対応,
+,177,シャンテト,,,,※順方向のみ対応,
+,178,ワッテ2,Murixir workshop,Boothにて配布中,https://murixir.booth.pm/items/7672328,順方向のみ対応,
+,179,ルメラナ,,,https://murixir.booth.pm/items/7653708,順方向のみ対応,
+,180,Re.珠々羅,ココナッツショップ,Boothにて配布中,https://konomipainter.booth.pm/items/6533313,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,181,蓮華(Renge),,,https://booth.pm/ja/items/7643489,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,182,つきよ-Tukiyo-,MxU工房-ミュースタジオ-,アバター購入履歴よりDL,,※順方向のみ対応,
+,183,きらり-Kirari-,,,,※順方向のみ対応,
+,184,ラチャ(Racha),Sharono屋,Boothにて配布中,https://sharono.booth.pm/items/6915207,順方向のみ対応,
+,185,ココノ (Cocono),,,https://sharono.booth.pm/items/6542661,順方向のみ対応,
+,186,Tea（ティー）,Lantana-shop,アバター購入履歴よりDL,,※順方向のみ対応,
+,187,Hinata（ひなた）,,,,※順方向のみ対応,
+,188,リリィ-RiLY,NASU製作所,アバター購入履歴よりDL,,順方向のみ対応,
+,189,グロック-GLOCC,,,,順方向のみ対応,
+,190,Lufka -ルフカ-,オオヌエプラント,アバター購入履歴よりDL,,※順方向のみ対応,
+,191,Remuy:Re -レムイ-,,,,※順方向のみ対応,
+,192,Velfta / ヴェルフタ,Loft Shasuka,アバター購入履歴よりDL,,順方向のみ対応,
+,193,TRESHA / トレーシャ,,,,順方向のみ対応,
+,194,Nys -ネイス-,alua7 Shop,Boothにて配布中,https://alua7.booth.pm/items/3978893,※順方向のみ対応,
+,195,小夜 Koyoi,,,https://alua7.booth.pm/items/5826600,※順方向のみ対応,
+,196,柑炉,怠惰の箱,アバター購入履歴よりDL,,※順方向のみ対応,もちふぃった～がテスト中のため暫定版
+,197,柚希,VIVID PLUM,アバター購入履歴よりDL,,順方向のみ対応,対応作業中のためテストバージョン
+,198,ストリア -Stria-,オトギバナシ,Boothにて配布中,https://otogisiori.booth.pm/items/6354246,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,199,RadDollV3,三丁目の魔界,Boothにて配布中,https://tonomaoo.booth.pm/items/3741802,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,200,スキミア,innoce,Boothにて配布中,https://lat-innoce.booth.pm/items/6214004,両方向対応,
+,201,閃花 Senka,半熟りんご,アバター購入履歴よりDL,,※順方向のみ対応,
+,202,サニエラ Saniela,殻陀屋-BOOTH,アバター購入履歴よりDL,,※順方向のみ対応,
+,203,Cetty セティ,Namu'sGroceryStore,アバター購入履歴よりDL,,※順方向のみ対応,
+,204,ももね -Momone-,CatPrincess,アバター購入履歴よりDL,,※順方向のみ対応,
+,205,"M@ROON",Tarooka,アバター購入履歴よりDL,,※順方向のみ対応,
+,206,銀杏,みらいショップ,アバター購入履歴よりDL,,※順方向のみ対応,アバター販売ページにてプロファイルDL
+,207,サマル-Samar-,QATYSOUQ,Boothにて配布中,https://qaty.booth.pm/items/6143770,両方向対応,
+,208,輝,Protagonist,アバター購入履歴よりDL,,※順方向のみ対応,Giselleの変換プロファイルを試験的に別ファイルで同梱
+,209,Giselle/ジゼル,LAdeWork,アバター購入履歴よりDL,,※順方向のみ対応,
+,210,フォーテ ver2,冷凍庫（仮）,アバター購入履歴よりDL,,※順方向のみ対応,テスト段階のプロファイル
+,211,アウルカ,いーべるすとあ,アバター購入履歴よりDL,,※順方向のみ対応,仮追加 胸などのシェイプキー対応は未完了
+,212,ヌァル,三原色工房,アバター購入履歴よりDL,,順方向のみ対応,2025年11月7日アバター販売開始 もちふぃった～のプロファイルα版同梱
+,213,レンフア -Renfua-,seafoods,アバター購入履歴よりDL,,※順方向のみ対応,暫定対応
+,214,Pochi ポチ,Pochi by KT,Boothにて配布リンク有,https://pochibykt.booth.pm/items/6283622,順方向のみ対応,アバター販売ページにてプロファイルDL
+,215,ルミリ,RAKUIRO,Boothにて配布中,https://rakuiro.booth.pm/items/6905649,※順方向のみ対応,
+,216,Nochica -ノーチカ,Sisters!,アバター購入履歴よりDL,,※順方向のみ対応,
+,217,アデノフォラ,四拾弐重工:販売所,アバター購入履歴よりDL,,順方向のみ対応, β版
+,218,ナナセ・ノワール -Nanase Noir-,ステラー工房,Boothにて配布中,https://steller.booth.pm/items/5827815,※順方向のみ対応,
+,219,キャロル - Carroll -,yuufyu.booth.pm,アバター購入履歴よりDL,,※順方向のみ対応,
+,220,ノワキ,ツゴモリ堂,アバター購入履歴よりDL,,※順方向のみ対応,
+,221,Lavendia,仕立て屋ラベンダー,Boothにて配布中,https://modes-lavande.booth.pm/items/6848538,※順方向のみ対応,テスト版
+,222,バイラン,らんぷ商店,Boothにて配布中,https://rampan.booth.pm/items/5929122,順方向のみ対応,
+,223,不思議のタニア,九ツ工房,アバター購入履歴よりDL,,※順方向のみ対応,
+,224,メビカ / Mevica,そいる,アバター購入履歴よりDL,,※順方向のみ対応,
+,225,ポヨミナ,メスケモ無人販売所,アバター購入履歴よりDL,,順方向のみ対応,
+,226,Rion -リオン-,Chloro † Terrace,Boothにて配布中,https://chloroterrace.booth.pm/items/6271911,順方向のみ対応,
+,227,仮称:Musa,Hotel Galactica,アバター購入履歴よりDL,,順方向のみ対応,
+,228,跳雪 -Toyuki-,Nejinocraft,アバター購入履歴よりDL,,順方向のみ対応,
+,229,リディコート LiddiCoat,Cloudz☁,アバター購入履歴よりDL,,順方向のみ対応,
+,230,レグニア-Legnia-,ふかんじ屋,アバター購入履歴よりDL,,※順方向のみ対応,
+,231,ピューマのぷまちゃん,#nemnem,アバター購入履歴よりDL,,※順方向のみ対応,
+,232,ふたば - Futaba -,いそちーるどっとこむ゜,アバター購入履歴よりDL,,※順方向のみ対応,
+,233,ヒイロ,おにいざん本舗,Boothにて配布中,https://booth.pm/ja/items/7653844,※順方向のみ対応,
+,234,トラグルス,スフィア/Sphere モデル置き場,Boothにて配布中,https://booth.pm/ja/items/5099202,※順方向のみ対応,
+,235,Mallo,Mochi Armor Shop,Boothにて配布中,https://mochiarmor.booth.pm/items/5900934,順方向のみ対応,
+,236,Papillon + パピヨン,BUGAISYA,アバター購入履歴よりDL,,順方向のみ対応,
+,237,山羊のメア -Goat Mea-,masui,Boothにて配布中,https://booth.pm/ja/items/6382745,順方向のみ対応,
+,238,ラチャ(Racha),Sharono屋,Boothにて配布中,https://sharono.booth.pm/items/6915207,順方向のみ対応,
+,239,ルミリ -Rumily,RAKUIRO,Boothにて配布中,https://rakuiro.booth.pm/items/6905649,順方向のみ対応,
+,240,虚玖李と迦供夜,宇津保堂,Boothにて配布中,https://utuhodou.booth.pm/items/7678585,※順方向のみ対応,
+,241,そよ / Soyo,Eggmaru,Boothにて配布中,https://eggmaru.booth.pm/items/6753865,※順方向のみ対応,
+,242,-Ladyna- レディナ,枡八(まっぱち),アバター購入履歴よりDL,,順方向のみ対応,
+,243,花々 まる,脳内御花畑,アバター購入履歴よりDL,,※順方向のみ対応,
+,244,Runeria -ルネリア-,HatoShop,アバター購入履歴よりDL,,※順方向のみ対応,
+,245,オルテ -Horte-,ラジアルウェブ,Boothにて配布中,https://radialweb.booth.pm/items/5743864,順方向のみ対応,
+,246,Ciel - シエル -,ArmoireLepus -アルモワール レプス-,Boothにて配布中,https://armoirelepus.booth.pm/items/7687000,順方向のみ対応,
+,247,,,,,,
+,248,,,,,,
+,249,,,,,,
+,250,,,,,,
+,251,,,,,,
+,252,,,,,,
+,253,,,,,,
+,254,,,,,,
+,255,,,,,,
+,256,,,,,,
+,257,,,,,,
+,258,,,,,,
+,259,,,,,,
+,260,,,,,,
+,261,,,,,,
+,262,,,,,,
+,263,,,,,,
+,264,,,,,,
+,265,,,,,,
+,266,,,,,,
+,267,,,,,,
+,268,,,,,,
+,269,,,,,,
+,270,,,,,,
